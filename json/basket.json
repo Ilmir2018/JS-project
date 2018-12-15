@@ -1,0 +1,24 @@
+{
+  "amount": 3,
+  "price": 159,
+  "products": [
+    {
+      "id": 1,
+      "name": "MANGO  PEOPLE  T-SHIRT",
+      "price": 52,
+      "img": "Product_1.png"
+    },
+    {
+      "id": 2,
+      "name": "MANGO  PEOPLE  T-SHIRT",
+      "price": 53,
+      "img": "Product_2.png"
+    },
+    {
+      "id": 3,
+      "name": "MANGO  PEOPLE  T-SHIRT",
+      "price": 54,
+      "img": "Product_3.png"
+    }
+  ]
+}
